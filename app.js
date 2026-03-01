@@ -1,5 +1,5 @@
 
-const apiKey = process.env.API_KEY;
+const apiKey = 'sk-1234567890abcdef1234567890abcdef';
 
 async function callDemoApi() {
   return new Promise((resolve) => {
